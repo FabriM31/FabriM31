@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabriM31
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning selenium with python
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning VueJs
 
 
 <!---
